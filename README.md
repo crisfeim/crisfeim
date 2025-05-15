@@ -1,11 +1,15 @@
-**Prefixes I use to organize my repos**:
+**Repo prefixes**
 
-- 📱 **app**-_repo_
+- 📱 **`app`**
 
-- 🛠️ **cli**-_repo_
+- 🛠️ **`cli`**
   
-- 🧪 **x**-_repo_: Technical exploration / prototypes
+- 🧪 **`x:`** Technical exploration / prototypes
   
-- 👨‍🏫 **study**-_repo_: Study of others' work, articles, etc
+- 👨‍🏫 **`study:`** Study of others' work, articles, etc
   
-- 🗄️ **z**-_repo_: Archived
+- 🚀 **`starter`**
+
+- 🧩 **`snippet`**
+  
+- 🗄️ **`z`**: Archived
