@@ -4,9 +4,9 @@
 
 - 🛠️ **`cli`**
   
-- 🧪 **`x:`** Technical exploration / prototypes
+- 🧪 **`x`** — Technical exploration / prototypes
   
-- 👨‍🏫 **`study:`** Study of others' work, articles, etc
+- 👨‍🏫 **`study`** — Study of others' work, articles, etc
   
 - 🚀 **`starter`**
 
